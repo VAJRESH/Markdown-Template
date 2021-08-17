@@ -2,9 +2,19 @@
 
 ## Table Of Contents
 
-- [Aim](#aim)
-- [Live Demo](#live-demo)
-- [Description](#description)
+- [Project Title](#project-title)
+  - [Table Of Contents](#table-of-contents)
+  - [Aim](#aim)
+  - [Live Demo](#live-demo)
+  - [Description](#description)
+  - [Features](#features)
+  - [Screenshots](#screenshots)
+  - [Installation](#installation)
+  - [Versions and Release Dates](#versions-and-release-dates)
+  - [Technologies Used](#technologies-used)
+  - [Acknowledgements](#acknowledgements)
+  - [Future Plans](#future-plans)
+  - [Contribution](#contribution)
 
 ## Aim
 
