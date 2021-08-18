@@ -12,8 +12,8 @@
   - [Installation](#installation)
   - [Versions and Release Dates](#versions-and-release-dates)
   - [Technologies Used](#technologies-used)
-  - [Acknowledgements](#acknowledgements)
   - [Future Plans](#future-plans)
+  - [Acknowledgements](#acknowledgements)
   - [Contribution](#contribution)
 
 ## Aim
@@ -102,14 +102,14 @@ After you have downloaded all the files
 
   - Public API of [TMDB](https://www.themoviedb.org/) for all the media data in the app.
 
+## Future Plans
+
+- Remove this section if nothing is planned.
+
 ## Acknowledgements
 
 - Designer or Design resources
 - Collaborator
-
-## Future Plans
-
-- Remove this section if nothing is planned.
 
 ## Contribution
 
