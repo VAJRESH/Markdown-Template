@@ -1,8 +1,8 @@
-# Project Title
+# Project Tracker
 
 ## Table Of Contents
 
-- [Project Title](#project-title)
+- [Project Tracker](#project-tracker)
   - [Table Of Contents](#table-of-contents)
   - [Aim](#aim)
   - [Live Demo](#live-demo)
@@ -18,19 +18,18 @@
 
 ## Aim
 
-- Explain what is the aim of starting this project or problem statement.
+- To create a project management tool.
 
 ## Live Demo
 
-Although You may have to wait for few seconds before it loads.
-Visit [](https://).
+Will update after completing
+<!-- Visit [](https://). -->
 
 ## Description
 
-Define in detail about the problem statement. Solution the project tries to solve.
-
-- As of now user can do:
--
+Project management will manage all the tasks related to projects with proper documentation.
+<!-- - As of now user can do: -->
+<!-- - -->
 
 ## Features
 
@@ -39,7 +38,9 @@ Define in detail about the problem statement. Solution the project tries to solv
 
 ## Screenshots
 
-![Output]
+
+Will update after completing
+<!-- ![Output] -->
 
 ## Installation
 
@@ -55,19 +56,29 @@ Method 2:
 **Follow this steps only if you have git installed on your machine.**
 
 - Open a terminal and write this
-  > git clone https://github.com/VAJRESH/project.git
+  > git clone https://github.com/VAJRESH/project-tracker.git
 - This will download all file in a folder locally.
 - Navigate to the folder.
 
 After you have downloaded all the files
 
+- Navigate to the downloaded folder and
+  > cd frontend
+  > npm install
+  > npm run dev
+
+  > cd ..
+  > cd backend
+  > npm install
+  > npm start
+
 ## Versions and Release Dates
 
-[](https://)
+<!-- [](https://) -->
 
 | Version | Release Date |
 | :-----: | :----------: |
-| v1.0.0  | 09 May 2021  |
+| v1.0.0  | XX XXX 2021  |
 
 ## Technologies Used
 
@@ -79,7 +90,6 @@ After you have downloaded all the files
   - [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
   - [React JS](https://reactjs.org/)
   - [Next JS](https://nextjs.org/)
-  - [Angular JS](https://angular.io/)
 
 - Backend
 
@@ -93,18 +103,16 @@ After you have downloaded all the files
 
 - Cloud/ Hosting Platforms
 
-  - [Heroku](https://www.heroku.com/)
   - [Vercel](https://vercel.com/)
-  - [Netlify](https://www.netlify.com)
-  - [Github Page](https://pages.github.com/)
-
-- Third Party APIs
-
-  - Public API of [TMDB](https://www.themoviedb.org/) for all the media data in the app.
 
 ## Future Plans
 
-- Remove this section if nothing is planned.
+MVP will consist 5 pages
+- Landing page
+- Login Register page
+- Profile Page 
+- Projects Cards View
+- Projects Description / Case Study
 
 ## Acknowledgements
 
